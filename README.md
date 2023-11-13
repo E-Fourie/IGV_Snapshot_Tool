@@ -4,7 +4,7 @@ Tool to automatically create snapshot alignment .png files using IGV in a headle
 
 Requires:
 
-'''
+```
 conda install -c conda-forge openjdk
 sudo apt install xvfb
-'''
+```
