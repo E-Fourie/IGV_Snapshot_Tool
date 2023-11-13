@@ -1,6 +1,6 @@
 # IGV Snapshot Tool
 
-Tool to automatically create snapshot alignment .png files using IGV in a headless envrionment for a server
+Tool to automatically create snapshot alignment .png files using IGV in a headless environment for a server
 
 Requires:
 
